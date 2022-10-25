@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackhat1314
 - 👀 I’m interested in Machine Learning and Data analysis
-- 🌱 I’m currently learning AWS Cloud Practictner
+- 🌱 I’m currently learning DevOps basics
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me via IG - mayankkaushikofficial
 
