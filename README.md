@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhat1314&show_icons=true&locale=en&layout=compact" alt="blackhat1314" /></p>
 
-<img align ="left" alt="coding" width="400" src="https://leetcard.jacoblin.cool/Kaushik1314?theme=wtf&font=Abel&ext=heatmap">
+<img align ="left" alt="coding" width="400" src="https://leetcard.jacoblin.cool/Kaushik1314?theme=light&font=Abel&ext=heatmap">
 
