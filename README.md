@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mayankkaushikofficial@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/W1cBOG0](https://cutt.ly/W1cBOG0)
+- 📄 Know about my experiences [https://cutt.ly/w9NkXRx)
 
 - ⚡ Fun fact **I am Funny**
 
