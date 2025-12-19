@@ -9,14 +9,13 @@
 
 - 📄 Know about my experiences [https://shorturl.at/A8jWT])
 
-# Mayank Raj  
 Backend / Full Stack Developer (Node.js | TypeScript)
 
 📍 India  
 📧 mayankkaushikofficial@gmail.com  
 📞 7908718091  
-🔗 LinkedIn: https://www.linkedin.com/in/mayank-raj  
-🔗 GitHub: https://github.com/your-github-username  
+🔗 LinkedIn: https://www.linkedin.com/in/mayank-raj-70aa441a8/
+🔗 GitHub: https://github.com/Blackhat1314  
 🔗 Live Project: https://ats-resume-frontend-six.vercel.app/
 
 ---
